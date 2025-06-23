@@ -1,0 +1,296 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_3675,field_3671,field_3719,field_3720
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":{
+			""matched_multiple_records"":""skip"",
+			""matched_same_record"":""skip""
+		}
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""aa4d63b223d74f3333b17bdd16916e38"",
+	""form_id"":""159"",
+	""form_name"":""**Capital and Operating Expenses"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""record_ids"",
+	""options"":[
+
+	],
+	""record_action"":""update"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_3671"",
+		""field_3719"",
+		""field_3675"",
+		""field_3720""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}",**Capital and Operating Expenses - Record ID,*Investment Category,Placemaking Property,Record Status
+16691,16691,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16692,16692,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16693,16693,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16694,16694,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16695,16695,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16696,16696,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16697,16697,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16698,16698,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16699,16699,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+16700,16700,Funds to Support the Lending Library,,Active
+16701,16701,Local Food Vendor Payments,,Active
+16702,16702,Local Food Vendor Payments,,Active
+16703,16703,Local Food Vendor Payments,,Active
+16704,16704,Local Food Vendor Payments,,Active
+16705,16705,Local Food Vendor Payments,,Active
+16706,16706,Local Food Vendor Payments,,Active
+16707,16707,"Artists Paid for Projects, Performances and Workshops",,Active
+16708,16708,"Artists Paid for Projects, Performances and Workshops",,Active
+16709,16709,"Artists Paid for Projects, Performances and Workshops",,Active
+16710,16710,"Artists Paid for Projects, Performances and Workshops",,Active
+16711,16711,"Artists Paid for Projects, Performances and Workshops",,Active
+16712,16712,"Artists Paid for Projects, Performances and Workshops",,Active
+16713,16713,"Artists Paid for Projects, Performances and Workshops",,Active
+16714,16714,"Artists Paid for Projects, Performances and Workshops",,Active
+16715,16715,"Artists Paid for Projects, Performances and Workshops",,Active
+16716,16716,"Artists Paid for Projects, Performances and Workshops",,Active
+16717,16717,"Artists Paid for Projects, Performances and Workshops",,Active
+16718,16718,"Artists Paid for Projects, Performances and Workshops",,Active
+16719,16719,"Artists Paid for Projects, Performances and Workshops",,Active
+16720,16720,"Artists Paid for Projects, Performances and Workshops",,Active
+16721,16721,"Artists Paid for Projects, Performances and Workshops",,Active
+16722,16722,"Artists Paid for Projects, Performances and Workshops",,Active
+16723,16723,"Artists Paid for Projects, Performances and Workshops",,Active
+16724,16724,"Artists Paid for Projects, Performances and Workshops",,Active
+16725,16725,"Artists Paid for Projects, Performances and Workshops",,Active
+16726,16726,"Artists Paid for Projects, Performances and Workshops",,Active
+16727,16727,"Artists Paid for Projects, Performances and Workshops",,Active
+16728,16728,"Artists Paid for Projects, Performances and Workshops",,Active
+16729,16729,"Artists Paid for Projects, Performances and Workshops",,Active
+16730,16730,"Artists Paid for Projects, Performances and Workshops",,Active
+16731,16731,"Artists Paid for Projects, Performances and Workshops",,Active
+16732,16732,"Artists Paid for Projects, Performances and Workshops",,Active
+16733,16733,"Artists Paid for Projects, Performances and Workshops",,Active
+16734,16734,"Artists Paid for Projects, Performances and Workshops",,Active
+16735,16735,"Artists Paid for Projects, Performances and Workshops",,Active
+16736,16736,"Artists Paid for Projects, Performances and Workshops",,Active
+16737,16737,"Artists Paid for Projects, Performances and Workshops",,Active
+16738,16738,"Artists Paid for Projects, Performances and Workshops",,Active
+16739,16739,Art O Mat Acquisition and Construction,,Active
+16740,16740,Art O Mat Acquisition and Construction,,Active
+16741,16741,Art O Mat Acquisition and Construction,,Active
+16742,16742,Art O Mat Acquisition and Construction,,Active
+16743,16743,Art O Mat Acquisition and Construction,,Active
+16744,16744,Art O Mat Acquisition and Construction,,Active
+16745,16745,Art O Mat Acquisition and Construction,,Active
+16746,16746,Art O Mat Acquisition and Construction,,Active
+16747,16747,Art O Mat Acquisition and Construction,,Active
+16748,16748,Art O Mat Acquisition and Construction,,Active
+16749,16749,Art O Mat Acquisition and Construction,,Active
+16750,16750,Art O Mat Acquisition and Construction,,Active
+16751,16751,Art O Mat Acquisition and Construction,,Active
+16752,16752,Art O Mat Acquisition and Construction,,Active
+16753,16753,Art O Mat Acquisition and Construction,,Active
+16754,16754,Art O Mat Acquisition and Construction,,Active
+16755,16755,Art O Mat Acquisition and Construction,,Active
+16756,16756,Art O Mat Acquisition and Construction,,Active
+16757,16757,Art O Mat Acquisition and Construction,,Active
+16758,16758,Art O Mat Acquisition and Construction,,Active
+16759,16759,Art O Mat Acquisition and Construction,,Active
+16760,16760,Art O Mat Acquisition and Construction,,Active
+16761,16761,Art O Mat Acquisition and Construction,,Active
+16762,16762,Art O Mat Acquisition and Construction,,Active
+16763,16763,Art O Mat Acquisition and Construction,,Active
+16764,16764,Art O Mat Acquisition and Construction,,Active
+16765,16765,Art O Mat Acquisition and Construction,,Active
+16766,16766,Art O Mat Acquisition and Construction,,Active
+16767,16767,Art O Mat Acquisition and Construction,,Active
+16768,16768,Art O Mat Acquisition and Construction,,Active
+16769,16769,Art O Mat Acquisition and Construction,,Active
+16770,16770,Art O Mat Acquisition and Construction,,Active
+16771,16771,Art O Mat Acquisition and Construction,,Active
+16772,16772,Art O Mat Acquisition and Construction,,Active
+16773,16773,Art O Mat Acquisition and Construction,,Active
+16774,16774,Art O Mat Acquisition and Construction,,Active
+16775,16775,Art O Mat Acquisition and Construction,,Active
+16776,16776,Art O Mat Acquisition and Construction,,Active
+16777,16777,Art O Mat Acquisition and Construction,,Active
+16778,16778,Art O Mat Acquisition and Construction,,Active
+16779,16779,Art O Mat Acquisition and Construction,,Active
+16780,16780,Art O Mat Acquisition and Construction,,Active
+16781,16781,Art O Mat Acquisition and Construction,,Active
+16782,16782,Art O Mat Acquisition and Construction,,Active
+16783,16783,Art O Mat Acquisition and Construction,,Active
+16784,16784,Art O Mat Acquisition and Construction,,Active
+16785,16785,Art O Mat Acquisition and Construction,,Active
+16786,16786,Art O Mat Acquisition and Construction,,Active
+16787,16787,Art O Mat Acquisition and Construction,,Active
+16788,16788,Local Artists Paid for Mural Projects,,Active
+16796,16796,Remediated and Built 7th and West Streets Park,,Active
+16798,16798,Art Racks Design and Installation,,Active
+16800,16800,Local Businesses Paid for Services,,Active
+16801,16801,Facilitation of the Move of NextFab,,Active
+16802,16802,Design and Completion of Large Scale Murals,,Active
+16803,16803,Creation of Art Installations,,Active
+16804,16804,Lighting Installations on 8 Commercial Properties,,Active
+16805,16805,6 Banner Murals and Lighting Installation on Catawba St.,,Active
+16806,16806,Completed and Opened The Rock Lot,,Active
+16807,16807,Work with Partners to Stabilize 4 Vacant Lots,,Active
+17200,17200,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17201,17201,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17202,17202,"Artists Paid for Projects, Performances and Workshops",,Active
+17203,17203,"Artists Paid for Projects, Performances and Workshops",,Active
+17204,17204,Local Food Vendor Payments,,Active
+17205,17205,Local Food Vendor Payments,,Active
+17206,17206,Local Food Vendor Payments,,Active
+17207,17207,"Artists Paid for Projects, Performances and Workshops",,Active
+17208,17208,"Artists Paid for Projects, Performances and Workshops",,Active
+17209,17209,"Artists Paid for Projects, Performances and Workshops",,Active
+17210,17210,"Artists Paid for Projects, Performances and Workshops",,Active
+17211,17211,"Artists Paid for Projects, Performances and Workshops",,Active
+17212,17212,Local Food Vendor Payments,,Active
+17213,17213,Local Food Vendor Payments,,Active
+17214,17214,Local Food Vendor Payments,,Active
+17215,17215,"Artists Paid for Projects, Performances and Workshops",,Active
+17216,17216,Art O Mat Acquisition and Construction,,Active
+17217,17217,Art O Mat Acquisition and Construction,,Active
+17218,17218,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17219,17219,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17220,17220,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17221,17221,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17222,17222,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17223,17223,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17224,17224,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17225,17225,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17226,17226,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17227,17227,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17228,17228,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17229,17229,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17230,17230,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17231,17231,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17232,17232,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17233,17233,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17234,17234,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17235,17235,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17236,17236,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17237,17237,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17238,17238,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17239,17239,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17240,17240,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17241,17241,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17242,17242,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17243,17243,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17244,17244,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17245,17245,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17246,17246,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17247,17247,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17248,17248,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17249,17249,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17250,17250,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17251,17251,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17252,17252,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17253,17253,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17254,17254,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17255,17255,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17256,17256,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17257,17257,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17258,17258,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17259,17259,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17260,17260,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17261,17261,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17262,17262,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17263,17263,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17264,17264,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17265,17265,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17266,17266,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17267,17267,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17268,17268,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17269,17269,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17270,17270,Other Creative Placemaking Maintenance and Program Expenses,,Active
+17271,17271,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17272,17272,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17273,17273,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17274,17274,Other Creative Placemaking Maintenance and Program Expenses,,Active
+17275,17275,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17276,17276,Other Creative Placemaking Maintenance and Program Expenses,,Active
+17277,17277,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17278,17278,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17279,17279,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17280,17280,Other Creative Placemaking Maintenance and Program Expenses,,Active
+17281,17281,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17282,17282,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17283,17283,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17284,17284,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17285,17285,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17286,17286,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17287,17287,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17288,17288,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+17289,17289,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+17290,17290,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+17291,17291,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18055,18055,"Artists Paid for Projects, Performances and Workshops",,Active
+18056,18056,Local Food Vendor Payments,,Active
+18057,18057,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18058,18058,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18059,18059,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18060,18060,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+18061,18061,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18062,18062,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+18063,18063,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+18064,18064,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18065,18065,Art O Mat Acquisition and Construction,,Active
+18066,18066,Art O Mat Acquisition and Construction,,Active
+18067,18067,Placemaking Properties' Maintenance and Program Expenses,7th and West Park,Active
+18068,18068,"Artists Paid for Projects, Performances and Workshops",,Active
+18069,18069,"Artists Paid for Projects, Performances and Workshops",,Active
+18070,18070,"Artists Paid for Projects, Performances and Workshops",,Active
+18071,18071,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18072,18072,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18073,18073,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18074,18074,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18075,18075,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18076,18076,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18077,18077,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18078,18078,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18079,18079,Placemaking Properties' Maintenance and Program Expenses,Art O Mat,Active
+18080,18080,Local Food Vendor Payments,,Active
+18081,18081,Local Food Vendor Payments,,Active
+18082,18082,Placemaking Properties' Maintenance and Program Expenses,Rock Lot,Active
+16670,16670,Marketing and Promotional Expenses,,Active
+16671,16671,Marketing and Promotional Expenses,,Active
+16672,16672,Other Workshop Expenses,,Active
+16673,16673,Workshop Consulting/Guest Speaker Costs,,Active
+16674,16674,Workshop Consulting/Guest Speaker Costs,,Active
+16675,16675,Kiva Hub Platform Expenses,,Active
+16676,16676,Kiva Hub Platform Expenses,,Active
+16677,16677,Grace Church Wilmington Kitchen Collective Costs,,Active
+16678,16678,Grace Church Wilmington Kitchen Collective Costs,,Active
+16679,16679,Grace Church Wilmington Kitchen Collective Costs,,Active
+16680,16680,Grace Church Wilmington Kitchen Collective Costs,,Active
+16681,16681,Grace Church Wilmington Kitchen Collective Costs,,Active
+16682,16682,Grace Church Wilmington Kitchen Collective Costs,,Active
+16683,16683,First & Central Kitchen Equipment Costs,,Active
+16684,16684,Kitchens Operating Costs Paid to Riverfront Ministries Per MOU,,Active
+16685,16685,Kitchens Operating Costs Paid to Riverfront Ministries Per MOU,,Active
+16686,16686,Grace Church Wilmington Kitchen Collective Costs,,Active
+17190,17190,Workshop Consulting/Guest Speaker Costs,,Active
+17191,17191,Other Workshop Expenses,,Active
+17192,17192,Other Workshop Expenses,,Active
+17193,17193,Other Workshop Expenses,,Active
+17194,17194,Other Workshop Expenses,,Active
+17195,17195,Workshop Consulting/Guest Speaker Costs,,Active
+17196,17196,Other Workshop Expenses,,Active
+18085,18085,Workshop Consulting/Guest Speaker Costs,,Active
+18086,18086,Other Workshop Expenses,,Active
+18087,18087,Other Workshop Expenses,,Active
+18090,18090,Wilmington Kitchen Collective Events Costs,,Active

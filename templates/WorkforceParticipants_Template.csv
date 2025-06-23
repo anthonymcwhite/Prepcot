@@ -1,0 +1,76 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_198_first,field_198_middle,field_198_last,field_1990,field_1980,field_1201,field_1041,field_3090,field_3099,field_2899,field_200,field_202,field_3166,field_199,field_2756,field_3164,field_1984,field_1991,field_208,field_1983,field_1985,field_3165,field_1599_line1,field_1599_line2,field_1599_neighborhood,field_1599_city,field_1599_state,field_1599_county,field_1599_zip,field_1599_country,field_1599_geolocation,field_3794,field_3795,field_2895,field_2483,field_2896,field_2897,field_2898,field_3963,field_3696,field_1684
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":[
+
+		]
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""46b1a7cc6429ca0ed54799f8d62f44c9"",
+	""form_id"":""16"",
+	""form_name"":""Workforce Participants"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""duplicate"",
+	""options"":[
+
+	],
+	""record_action"":""insert"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_198_first"",
+		""field_198_middle"",
+		""field_198_last"",
+		""field_1990"",
+		""field_1980"",
+		""field_1201"",
+		""field_1041"",
+		""field_3090"",
+		""field_3099"",
+		""field_2899"",
+		""field_200"",
+		""field_202"",
+		""field_3166"",
+		""field_199"",
+		""field_2756"",
+		""field_3164"",
+		""field_1984"",
+		""field_1991"",
+		""field_208"",
+		""field_1983"",
+		""field_1985"",
+		""field_3165"",
+		""field_1599_line1"",
+		""field_1599_line2"",
+		""field_1599_neighborhood"",
+		""field_1599_city"",
+		""field_1599_state"",
+		""field_1599_county"",
+		""field_1599_zip"",
+		""field_1599_country"",
+		""field_1599_geolocation"",
+		""field_3794"",
+		""field_3795"",
+		""field_2895"",
+		""field_2483"",
+		""field_2896"",
+		""field_2897"",
+		""field_2898"",
+		""field_3963"",
+		""field_3696"",
+		""field_1684""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}","*Workforce Participants - Participant Name: first","Workforce Participants - Participant Name: middle","*Workforce Participants - Participant Name: last","*Providing Partner(s)","*Participant ROI on File from Training Agency",*Email,"*Cell Phone Number (that allows texting)","Additional General Note","Data Limitations","*Justice Impacted?",*Gender,*Race/Ethnicity,*Ethnicity,"Date of Birth","*Age Range (Generation Work)","Age Range (JPMC)","*Participant has Dependents","Number of Dependents","*Marital Status","*Veteran Status","*Annual Income","Vulnerable Populations","*Primary Address: line1","Primary Address: line2","Primary Address: neighborhood","*Primary Address: city","*Primary Address: state","Primary Address: county","*Primary Address: zip","Primary Address: country","Primary Address: geolocation",Latitude,Longitude,"Census Year","Census Tract","Census Block","Full FIPS (tract)","Full FIPS (block)","Wilmington Neighborhood Name and Census Tract","Low Income Wilmington Census Tract","Assigned Programs"

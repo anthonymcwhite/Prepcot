@@ -1,0 +1,73 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_3671,field_3702,field_3673,field_3682,field_3669,field_3670,field_3925,field_3719,field_3672,field_3680
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":[
+
+		]
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""b91cddf5ca0bb809381dfae0996b90e6"",
+	""form_id"":""159"",
+	""form_name"":""Capital and Operating Expenses"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""duplicate"",
+	""options"":[
+
+	],
+	""record_action"":""insert"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_3671"",
+		""field_3702"",
+		""field_3673"",
+		""field_3682"",
+		""field_3669"",
+		""field_3670"",
+		""field_3925"",
+		""field_3719"",
+		""field_3672"",
+		""field_3680""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}",*Capital and Operating Expenses - Investment Category,*Capital and Operating Expenses - Date of Investment,*Capital and Operating Expenses - Investment Amount,Capital and Operating Expenses - Duplicate Check,*Program Area,Small Business Program,CP Capital or Programming Investment?,Placemaking Property,Notes,Assigned Programs
+,Any one of the following values (also allows other),YYYYMMDD,Any value (numeric),Any value (including special characters),Entrepreneurship & Small Business Support,Wilmington Kitchen Collective,Capital Investment,Art O Mat,Any value (including special characters),5165 - Community Engagement
+,Workshop Consulting/Guest Speaker Costs,YYYY-MM-DD,,,Creative Placemaking,Wilmington Strong Fund,Programming Investment,7th and West Park,,5698 - Equitable Entrepreneurial Ecosystem (E3)
+,Other Workshop Expenses,"January 1st, 2009",,,,WilmingtonMADE,,Rock Lot,,3245 - Kiva Delaware
+,Marketing and Promotional Expenses,Jan 1 2009,,,,,,General,,2527 - Wilmington Kitchen Collective
+,Kiva Hub Platform Expenses,mm/dd/yyyy,,,,,,,,5697 - Wilmington Strong Fund
+,Kitchens Operating Costs Paid to Riverfront Ministries Per MOU,,,,,,,,,5696 - WilmingtonMADE
+,Wilmington Kitchen Collective Events Costs,,,,,,,,,
+,First & Central Kitchen Equipment Costs,,,,,,,,,
+,Grace Church Wilmington Kitchen Collective Costs,,,,,,,,,
+,Kitchen Equipment Costs,,,,,,,,,
+,Placemaking Properties' Maintenance and Program Expenses,,,,,,,,,
+,"Artists Paid for Projects, Performances and Workshops",,,,,,,,,
+,Local Food Vendor Payments,,,,,,,,,
+,Funds to Support the Lending Library,,,,,,,,,
+,Payment to Books & Bagels for the Lending Library Initiative,,,,,,,,,
+,Art O Mat Acquisition and Construction,,,,,,,,,
+,Art Racks Design and Installation,,,,,,,,,
+,Local Artists Paid for Mural Projects,,,,,,,,,
+,Local Businesses Paid for Services,,,,,,,,,
+,Facilitation of the Move of NextFab,,,,,,,,,
+,Design and Completion of Large Scale Murals,,,,,,,,,
+,Creation of Art Installations,,,,,,,,,
+,Lighting Installations on 8 Commercial Properties,,,,,,,,,
+,6 Banner Murals and Lighting Installation on Catawba St.,,,,,,,,,
+,Completion and Opening of The Rock Lot,,,,,,,,,
+,Remediation and Building of 7th and West Streets Park,,,,,,,,,
+,Work with Partners to Stabilize 4 Vacant Lots,,,,,,,,,
+,Other,,,,,,,,,

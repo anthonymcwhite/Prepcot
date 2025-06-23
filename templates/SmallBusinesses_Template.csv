@@ -1,0 +1,79 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_2180,field_2574_first,field_2574_middle,field_2574_last,field_3264,field_2862,field_2228,field_2229,field_2863_first,field_2863_middle,field_2863_last,field_2865,field_2866,field_2207,field_2861,field_2198,field_3683,field_3926,field_4033,field_4034,field_4035,field_2183,field_2178,field_2685_line1,field_2685_line2,field_2685_neighborhood,field_2685_city,field_2685_state,field_2685_county,field_2685_zip,field_2685_country,field_2685_geolocation,field_2647,field_2661,field_2195,field_2622,field_2194,field_3579,field_2576,field_2531,field_3258,field_3262,field_3259,field_2192
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":[
+
+		]
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""fa119129e38e400235a1724aca9d847c"",
+	""form_id"":""102"",
+	""form_name"":""Small Businesses"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""duplicate"",
+	""options"":[
+
+	],
+	""record_action"":""insert"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_2180"",
+		""field_2574_first"",
+		""field_2574_middle"",
+		""field_2574_last"",
+		""field_3264"",
+		""field_2862"",
+		""field_2228"",
+		""field_2229"",
+		""field_2863_first"",
+		""field_2863_middle"",
+		""field_2863_last"",
+		""field_2865"",
+		""field_2866"",
+		""field_2207"",
+		""field_2861"",
+		""field_2198"",
+		""field_3683"",
+		""field_3926"",
+		""field_4033"",
+		""field_4034"",
+		""field_4035"",
+		""field_2183"",
+		""field_2178"",
+		""field_2685_line1"",
+		""field_2685_line2"",
+		""field_2685_neighborhood"",
+		""field_2685_city"",
+		""field_2685_state"",
+		""field_2685_county"",
+		""field_2685_zip"",
+		""field_2685_country"",
+		""field_2685_geolocation"",
+		""field_2647"",
+		""field_2661"",
+		""field_2195"",
+		""field_2622"",
+		""field_2194"",
+		""field_3579"",
+		""field_2576"",
+		""field_2531"",
+		""field_3258"",
+		""field_3262"",
+		""field_3259"",
+		""field_2192""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}","*Small Businesses - Business Name","*Small Businesses - Owner's Name: first","Small Businesses - Owner's Name: middle","*Small Businesses - Owner's Name: last","Business Federal Tax ID","*Multiple Owners?",*Race/Ethnicity,*Gender,"Co-Owner Name: first","Co-Owner Name: middle","Co-Owner Name: last","Co-Owner Race/Ethnicity","Co-Owner Gender","*Minority Owned?","*Women and/or Men Owned?","*Veteran Owned?","*Disabled Owned?","*Wilmington DE Based Business?","*What percent of the business that serves/comes from Wilmington DE?","*Is the business DEI certified?","What the business is DEI certified with (if applicable)","Primary Phone Number","Primary Email","Owner's Home or Mailing Address: line1","Owner's Home or Mailing Address: line2","Owner's Home or Mailing Address: neighborhood","Owner's Home or Mailing Address: city","Owner's Home or Mailing Address: state","Owner's Home or Mailing Address: county","Owner's Home or Mailing Address: zip","Owner's Home or Mailing Address: country","Owner's Home or Mailing Address: geolocation","*Industry Sector","*Specific Industry Sector","Business Description","Timestamp to Reference Business Operation Length","*Business Operation Length","Business Website","Social Media Links","*Wilmington Alliance Small Business Support","*Chamber Memberships","*Other Local Small Business Support","Additional Small Business Support Notes","Assigned Programs"

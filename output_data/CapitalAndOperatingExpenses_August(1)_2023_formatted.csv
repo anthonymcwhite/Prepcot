@@ -1,0 +1,57 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_3671,field_3702,field_3673,field_3682,field_3669,field_3670,field_3925,field_3719,field_3672,field_3680
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":{
+			""matched_multiple_records"":""skip"",
+			""matched_same_record"":""skip""
+		}
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""a5b99dcb49bf20e4de532fd2667c3544"",
+	""form_id"":""159"",
+	""form_name"":""Capital and Operating Expenses"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""record_ids"",
+	""options"":[
+
+	],
+	""record_action"":""update"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_3671"",
+		""field_3702"",
+		""field_3675"",
+		""field_3680""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}",*Investment Category,*Date of Investment,,,,,,,,Assigned Programs
+16670,Marketing and Promotional Expenses,12/31/2020,,,,,,,,"[""5696""]"
+16671,Marketing and Promotional Expenses,12/31/2021,,,,,,,,"[""5696""]"
+16672,Other Workshop Expenses,9/26/2022,,,,,,,,"[""5696""]"
+16673,Workshop Consulting/Guest Speaker Costs,9/26/2022,,,,,,,,"[""5696""]"
+16674,Workshop Consulting/Guest Speaker Costs,5/9/2023,,,,,,,,"[""5696""]"
+16675,Kiva Hub Platform Expenses,2/28/2022,,,,,,,,"[""5696""]"
+16676,Kiva Hub Platform Expenses,1/17/2023,,,,,,,,"[""5696""]"
+16677,Grace Church Wilmington Kitchen Collective Costs,1/31/2022,,,,,,,,"[""5696""]"
+16678,Grace Church Wilmington Kitchen Collective Costs,2/28/2022,,,,,,,,"[""5696""]"
+16679,Grace Church Wilmington Kitchen Collective Costs,3/31/2022,,,,,,,,"[""5696""]"
+16680,Grace Church Wilmington Kitchen Collective Costs,4/30/2022,,,,,,,,"[""5696""]"
+16681,Grace Church Wilmington Kitchen Collective Costs,5/31/2022,,,,,,,,"[""5696""]"
+16682,Grace Church Wilmington Kitchen Collective Costs,6/20/2022,,,,,,,,"[""5696""]"
+16683,First & Central Kitchen Equipment Costs,6/22/2022,,,,,,,,"[""5696""]"
+16684,Kitchens Operating Costs Paid to Riverfront Ministries Per MOU,8/15/2022,,,,,,,,"[""5696""]"
+16685,Kitchens Operating Costs Paid to Riverfront Ministries Per MOU,1/13/2023,,,,,,,,"[""5696""]"
+16686,Grace Church Wilmington Kitchen Collective Costs,12/31/2021,,,,,,,,"[""5696""]"

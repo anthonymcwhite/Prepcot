@@ -1,0 +1,45 @@
+"System Header Row
+DO NOT DELETE THIS ROW
+OR THIS COLUMN!",field_3671,field_3702,field_3673,field_3682,field_3669,field_3670,field_3925,field_3719,field_3672,field_3680
+"{
+	""actions"":{
+		""validation"":[
+
+		],
+		""reconciliation"":[
+
+		]
+	},
+	""enforce_all_required_fields"":"""",
+	""form_history"":""b91cddf5ca0bb809381dfae0996b90e6"",
+	""form_id"":""159"",
+	""form_name"":""Capital and Operating Expenses"",
+	""has_desc"":"""",
+	""import_type"":""data"",
+	""is_tier1_form"":""1"",
+	""link_field_id"":"""",
+	""link_field_label"":"""",
+	""match_type"":""duplicate"",
+	""options"":[
+
+	],
+	""record_action"":""insert"",
+	""secondary_form_history"":"""",
+	""secondary_form_id"":""0"",
+	""secondary_form_name"":"""",
+	""secondary_is_tier1_form"":"""",
+	""selected_columns"":[
+		""field_3671"",
+		""field_3702"",
+		""field_3673"",
+		""field_3682"",
+		""field_3669"",
+		""field_3670"",
+		""field_3925"",
+		""field_3719"",
+		""field_3672"",
+		""field_3680""
+	],
+	""skip_headers"":"""",
+	""target_match_type"":""""
+}","*Capital and Operating Expenses - Investment Category","*Capital and Operating Expenses - Date of Investment","*Capital and Operating Expenses - Investment Amount","Capital and Operating Expenses - Duplicate Check","*Program Area","Small Business Program","CP Capital or Programming Investment?","Placemaking Property",Notes,"Assigned Programs"
