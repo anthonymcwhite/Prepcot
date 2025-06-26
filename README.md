@@ -4,6 +4,8 @@
 
 Whether you’re wrangling CSVs, mapping templates, or formatting exports, Prepcot gives you a slick and intuitive way to transform your data.
 
+[![Watch The Demo](https://www.youtube.com/watch?v=A7dMdkGc61Y)]
+
 ---
 
 ## 🎯 Features
@@ -72,7 +74,6 @@ Powered by community leadership and support from the Wilmington Alliance 💼
 — Prepcot Philosophy
 
 
-(https://github.com/anthonymcwhite/Prepcot/blob/main/Prepcot%20Demo.mp4)
 
 
 
