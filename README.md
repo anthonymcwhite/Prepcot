@@ -49,20 +49,20 @@ Make sure all folders (templates, value_mappings, output_data, etc.) are in the 
 → Confirm you're using Python 3.8+ with full PySide6 support
 → Some visuals depend on system theme support for dark palettes
 
-📁 Directory Structur
-prepcot/
-├── main.py
-├── prepcot_gui/
-│   └── gui_main.py
-├── template_manager/
-│   └── template_loader.py
-├── data_mapper/
-│   └── formatter.py
-├── templates/
-├── value_mappings/
-├── output_data/
-├── logs/
-└── icons/
+📁 Directory Structure <br>
+prepcot/<br>
+├── main.py<br>
+├── prepcot_gui/<br>
+│   └── gui_main.py<br>
+├── template_manager/<br>
+│   └── template_loader.py<br>
+├── data_mapper/<br>
+│   └── formatter.py<br>
+├── templates/<br>
+├── value_mappings/<br>
+├── output_data/<br>
+├── logs/<br>
+└── icons/<br>
 
 🤝 Credits
 Created with energy and intention by Tony, with build support from Microsoft Copilot.
