@@ -48,7 +48,7 @@ Make sure all folders (templates, value_mappings, output_data, etc.) are in the 
 🎨 GUI glitches?
 → Confirm you're using Python 3.8+ with full PySide6 support
 → Some visuals depend on system theme support for dark palettes
-
+<p>
 📁 Directory Structure <br>
 prepcot/<br>
 ├── main.py<br>
@@ -63,7 +63,7 @@ prepcot/<br>
 ├── output_data/<br>
 ├── logs/<br>
 └── icons/<br>
-
+</p>
 🤝 Credits
 Created with energy and intention by Tony, with build support from Microsoft Copilot.
 Powered by community leadership and support from the Wilmington Alliance 💼
@@ -72,7 +72,7 @@ Powered by community leadership and support from the Wilmington Alliance 💼
 — Prepcot Philosophy
 
 
-
+(https://github.com/anthonymcwhite/Prepcot/blob/main/Prepcot%20Demo.mp4)
 
 
 
