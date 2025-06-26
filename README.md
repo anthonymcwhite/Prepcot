@@ -25,7 +25,7 @@ Whether you’re wrangling CSVs, mapping templates, or formatting exports, Prepc
 Clone or download this repo:
 
 <tt>bash<br>
-git clone https://github.com/yourusername/prepcot.git</tt>
+git clone https://github.com/anthonymcwhite/prepcot.git</tt>
 
 2. Install Dependencies
 Run this in your terminal or command prompt:
