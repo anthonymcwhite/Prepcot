@@ -4,7 +4,7 @@
 
 Whether you’re wrangling CSVs, mapping templates, or formatting exports, Prepcot gives you a slick and intuitive way to transform your data.
 
-[![Watch The Demo](https://www.youtube.com/watch?v=A7dMdkGc61Y)]
+[![Watch The Demo](https://i9.ytimg.com/vi_webp/A7dMdkGc61Y/mq3.webp?sqp=CISv9sIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFEgZShRMA8=&rs=AOn4CLDG9QgXUO_1t6wrAkarK_lrOV0SLQ)](https://www.youtube.com/watch?v=A7dMdkGc61Y)
 
 ---
 
